@@ -68,7 +68,7 @@ def criar_conta(cadastro):
 2. 02
 3. 03
 => ''').zfill(2)
-
+    
         salario_SN = int(input('''Gostaria de trazer seu sálario para agência? 
 1. Sim
 2. Não
