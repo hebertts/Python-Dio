@@ -2,7 +2,7 @@ import datetime as dt
 import requests
 import pandas as pd
 
-API_KEY = '84c499661fada9a56fee567a5b4dd40f'
+API_KEY = 'XXXXXXXXXXXXXXXXXXXXXXX'
 CITIES = ["Maceió", "Arapiraca", "Salvador", "Olinda", "Brasília"]
 
 data = dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
